@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 nltk = "*"
 scikit-learn = "*"
+yellowbrick = "*"
 
 [dev-packages]
 ipykernel = "*"

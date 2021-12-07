@@ -1,9 +1,7 @@
 5-minute-craft-titles
 ==============================
 
-Doug Greaves
-Julio Oliveira 
-Satoshi Taniguchi 
+Authors: Doug Greaves, Julio Oliveira, Satoshi Taniguchi 
 
 Data mine video titles of the popular YouTube channel, “5-Minute Crafts,” to gain insights on the impact of word choice on the number of views and analyze effectiveness of clickbait key words and topics on video popularity.
 

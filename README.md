@@ -24,6 +24,8 @@ Project Organization
     │                         the creator's initials, and a short `-` delimited description, e.g.
     │                         `1.0-initial-data-exploration`.
     │
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │
     ├── Pipfile            <- The requirements file for reproducing the environment, e.g.
                               generated with pipenv
      
